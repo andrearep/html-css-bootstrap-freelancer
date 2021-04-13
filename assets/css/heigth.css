@@ -1,0 +1,26 @@
+.h100{
+    height: 100px;
+}
+.h200{
+    height: 200px;
+    margin-top: 20px;
+}
+.h300{
+    height: 300px;
+}
+.h400{
+    height: 400px;
+}
+.h500{
+    height: 500px;
+}
+.h600{
+    height: 600px;
+}
+
+@media screen and (max-width:991px){
+    .hauto{
+        height: auto;
+        padding: 30px 0;
+    }
+}
