@@ -7,7 +7,13 @@
 .sep{
     border-bottom: 5px solid white;
 }
+.sep_2{
+    border-bottom: 5px solid #2C3E50;
+}
 
 .top50{
     top: 16px;
+}
+.w340{
+    width: 340px;
 }
