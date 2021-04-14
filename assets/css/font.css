@@ -20,3 +20,11 @@
 .w340{
     width: 340px;
 }
+
+.border_none{
+    border-style: none;
+}
+::placeholder{
+    font-size: 1.5rem;
+
+}
